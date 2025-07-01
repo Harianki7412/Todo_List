@@ -15,7 +15,7 @@ A simple React Todo List application styled with Tailwind CSS.
 
 ### Installation
 
-1. GitHub repository link 
+1. GitHub repository link :-
 
 ## `https://github.com/Harianki7412/Todo_List.git`
 
