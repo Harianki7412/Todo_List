@@ -42,10 +42,6 @@ postcss.config.js
 package.json
 ```
 
-## Customization
-
-- Edit `src/components/TodoList.jsx` to change the todo logic or UI.
-- Tailwind CSS classes can be modified for different styles.
 
 ## Scripts
 
